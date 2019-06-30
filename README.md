@@ -9,7 +9,7 @@
 ```bash
 git clone https://github.com/lightkeima/Miku-theme.git
 cd Miku-theme
-./install
+./install.sh
 ```
 
 ## Screenshot
